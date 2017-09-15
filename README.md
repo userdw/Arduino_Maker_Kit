@@ -1,5 +1,5 @@
 # [ENGLISH] Arduino Starter Kit
-This repository has been created as the companion for Arduino Starter Kit. Arduino Starter Kit itself is a suitable start point for both hobbyist and academist alike to start exploring the features offered by Arduino board, especially the UNO family.
+This repository has been created as the companion for Arduino Starter Kit. Arduino Starter Kit itself is a suitable start point for both hobbyist and academist alike to start exploring the features offered by Arduino board, especially DT-AVR UNO R3 as an Arduino UNO compatible board.
 For more information about each products please visit links below:
 * [Arduino Starter Kit](http://digiwarestore.com/en/) - Arduino Starter Kit's product page
 * [DT-AVR UNO R3](http://innovativeelectronics.com/index.php?pg=ie_pdet&idp=489&ielang=en) - DT-AVR UNO R3 as the main development board
@@ -17,7 +17,7 @@ For more information about each products please visit links below:
 Those projects listed above are aimed as introductory to DT-AVR UNO R3's features.
 
 # [BAHASA INDONESIA] Arduino 101 Starter Kit
-Repository ini dibuat sebagai pelengkap dari Arduino Starter Kit. Arduino Starter Kit merupakan produk yang sesuai untuk digunakan sebagai titik awal eksplorasi fitur-fitur yang disediakan oleh modul Arduino, khususnya keluarga UNO.
+Repository ini dibuat sebagai pelengkap dari Arduino Starter Kit. Arduino Starter Kit merupakan produk yang sesuai untuk digunakan sebagai titik awal eksplorasi fitur-fitur yang disediakan oleh modul Arduino, khususnya DT-AVR UNO R3 sebagai Arduino UNO compatible board.
 Informasi untuk masing-masing produk dapat ditemukan pada link-link di bawah:
 * [Arduino Starter Kit](http://digiwarestore.com/en/) - Halaman produk Arduino Starter Kit
 * [DT-AVR UNO R3](http://innovativeelectronics.com/index.php?pg=ie_pdet&idp=489) - DT-AVR UNO R3 sebagai development board utama
