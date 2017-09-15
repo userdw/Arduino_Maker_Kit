@@ -16,6 +16,9 @@ For more information about each products please visit links below:
 
 Those projects listed above are aimed as introductory to DT-AVR UNO R3's features.
 
+## Driver instalation:
+Before you can start programming DT-AVR UNO R3, you have to install the appropriate driver. Please visit this [link](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers) for the latest driver.
+
 # [BAHASA INDONESIA] Arduino 101 Starter Kit
 Repository ini dibuat sebagai pelengkap dari Arduino Starter Kit. Arduino Starter Kit merupakan produk yang sesuai untuk digunakan sebagai titik awal eksplorasi fitur-fitur yang disediakan oleh modul Arduino, khususnya DT-AVR UNO R3 sebagai Arduino UNO compatible board.
 Informasi untuk masing-masing produk dapat ditemukan pada link-link di bawah:
@@ -33,3 +36,6 @@ Informasi untuk masing-masing produk dapat ditemukan pada link-link di bawah:
 * [08. Weather Station](/08_Weather_Station)
 
 Proyek-proyek yang terdapat pada poin-poin di atas ditujukan sebagai pengantar untuk fitur-fitur DT-AVR UNO R3.
+
+## Instalasi driver:
+Sebelum kita dapat memprogram DT-AVR UNO R3, kita terlebih dahulu perlu melakukan instalasi driver. Silahkan mengunjungi [link](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers) berikut untuk file driver terbaru.
