@@ -5,18 +5,18 @@ The system in this project will detect the level of ambient light. When the ambi
 <img src="/images/Ambient_Light_Monitoring.png" height="400">
 
 ### In this project you will need:
-* Arduino 101 (1),
+* DT-AVR UNO R3 (1),
 * I/O Expansion Shield (1),
 * LED Module (1),
 * LDR Sensor (1).
 
 ### Assemble the modules following these steps:
-1. Plug the I/O Expansion Shield to the top of Arduino 101,
+1. Plug the I/O Expansion Shield to the top of DT-AVR UNO R3,
 2. Plug the LED Module to the header on the I/O Expansion Shield labelled **9**,
 3. Plug the LDR Sensor to the header on the I/O Expansion Shield labelled **A0**,
-4. Upload the [Ambient_Light_Monitoring](/05_Ambient_Light_Monitoring/Ambient_Light_Monitoring) code into Arduino 101.
+4. Upload the [Ambient_Light_Monitoring](/05_Ambient_Light_Monitoring/Ambient_Light_Monitoring) code into DT-AVR UNO R3.
 
-Once you turn on the Arduino 101, it will enter calibration mode for about 3 seconds. Cover the LDR Sensor with your finger to determine the lowest brightness, and uncover the LDR Sensor to determine the highest brightness. Be careful of shadows.
+Once you turn on the DT-AVR UNO R3, it will enter calibration mode for about 3 seconds. Cover the LDR Sensor with your finger to determine the lowest brightness, and uncover the LDR Sensor to determine the highest brightness. Be careful of shadows.
 If there are no mistakes, LED Module will gets brighter when the ambient light gets dimmer. On the contrary, LED Module will gets dimmer when the ambient light gets brighter.
 
 # [BAHASA INDONESIA] Proyek 5: Ambient Light Monitoring
@@ -26,16 +26,16 @@ Sistem pada proyek ini akan mendeteksi intensitas cahaya sekitar menggunakan LDR
 <img src="/images/Ambient_Light_Monitoring.png" height="400">
 
 ### Modul-modul yang dibutuhkan pada proyek ini:
-* Arduino 101 (1),
+* DT-AVR UNO R3 (1),
 * I/O Expansion Shield (1),
 * LED Module (1),
 * LDR Sensor (1).
 
 ### Hubungkan modul-modul di atas mengikuti langkah-langkah di bawah ini:
-1. Pasang I/O Expansion Shield di atas Arduino 101,
+1. Pasang I/O Expansion Shield di atas DT-AVR UNO R3,
 2. Hubungkan LED Module ke header I/O Expansion Shield yang berlabel **9**,
 3. Hubungkan LDR Sensor ke header I/O Expansion Shield yang berlabel **A0**,
-4. Upload kode program [Ambient_Light_Monitoring](/05_Ambient_Light_Monitoring/Ambient_Light_Monitoring) ke Arduino 101.
+4. Upload kode program [Ambient_Light_Monitoring](/05_Ambient_Light_Monitoring/Ambient_Light_Monitoring) ke DT-AVR UNO R3.
 
-Pada saat Arduino 101 dinyalakan, Arduino 101 akan memasuki proses kalibrasi selama kurang lebih 3 detik. Tutupi LDR Sensor dengan jari untuk mendapatkan nilai kecerahan terendah, dan hilangkan halangan pada LDR Sensor untuk mendapatkan nilai kecerahan tertinggi. Bayangan akan mempengaruhi proses kalibrasi.
+Pada saat DT-AVR UNO R3 dinyalakan, DT-AVR UNO R3 akan memasuki proses kalibrasi selama kurang lebih 3 detik. Tutupi LDR Sensor dengan jari untuk mendapatkan nilai kecerahan terendah, dan hilangkan halangan pada LDR Sensor untuk mendapatkan nilai kecerahan tertinggi. Bayangan akan mempengaruhi proses kalibrasi.
 Apabila tidak terdapat kesalahan, nyala LED Module akan semakin terang saat cahaya sekitar semakin gelap. Sebaliknya, nyala LED Module akan semakin redup saat cahaya sekitar semakin terang.
