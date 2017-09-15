@@ -1,5 +1,5 @@
 # [ENGLISH] Project 1: Blinking and Fading a LED
-Almost every start of exploring and developing on any embedded devices starts from blinking a LED, as it will helps us to know that our board is working and what is the simplest form of code that allows us to interface with its output pin. It will be the same for our journey to explore DT-AVR UNO R3. Through this project we hope you will get a picture that controlling an output pin on DT-AVR UNO R3 is an easy task.
+Almost every start of exploring and developing on any embedded devices starts from blinking a LED, as it will helps us to know that our board is working and what is the simplest form of code that allows us to interface with its output pin. It will be the same for our journey exploring DT-AVR UNO R3. Through this project we hope you will get a picture that controlling an output pin on DT-AVR UNO R3 is an easy task.
 
 ### In this project you will need:
 * DT-AVR UNO R3 (1),
@@ -16,7 +16,7 @@ Almost every start of exploring and developing on any embedded devices starts fr
 If there are no mistakes, the LED Module should start blinking then increase and fade in its brightness.
 
 # [BAHASA INDONESIA] Proyek 1: Blinking and Fading a LED
-Hampir semua awal dari eksplorasi dan pengembangan yang dilakukan pada embedded device dimulai dari mengedipkan LED, di mana hal tersebut digunakan untuk memastikan bahwa board kita dapat bekerja dengan baik, serta bagi kita agar mengetahui bagaimana bentuk kode yang paling sederhana untuk mengakses output pin dari board tersebut. Hal yang sama akan kita lakukan untuk perjalanan eksplorasi DT-AVR UNO R3. Melalui proyek ini, kami berharap Anda akan mendapatkan gambaran bahwa mengendalikan output pin pada DT-AVR UNO R3 adalah hal yang mudah dilakukan.
+Hampir semua awal dari eksplorasi dan pengembangan yang dilakukan pada embedded device dimulai dari mengedipkan LED, di mana hal tersebut adalah untuk memastikan bahwa board kita dapat bekerja dengan baik, serta bagi kita agar mengetahui bagaimana bentuk kode yang paling sederhana untuk mengakses output pin dari board tersebut. Hal yang sama akan kita lakukan untuk perjalanan eksplorasi DT-AVR UNO R3. Melalui proyek ini, kami berharap Anda akan mendapatkan gambaran bahwa mengendalikan output pin pada DT-AVR UNO R3 adalah hal yang sangat mudah untuk dilakukan.
 
 ### Modul-modul yang dibutuhkan pada proyek ini:
 * DT-AVR UNO R3 (1),
