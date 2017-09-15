@@ -1,8 +1,8 @@
-# [ENGLISH] Arduino 101 Starter Kit
-This repository has been created as the companion for Arduino 101 Starter Kit.
-Arduino 101 Starter Kit itself is a suitable start point for both hobbyist and academist alike to start exploring the features offered by Intel's SoC chip (Intel® Curie™), which is embedded as the main processor on Arduino 101 board.
+# [ENGLISH] Arduino Starter Kit
+This repository has been created as the companion for Arduino Starter Kit.
+Arduino Starter Kit itself is a suitable start point for both hobbyist and academist alike to start exploring the features offered by Arduino board.
 For more information about each products please visit links below:
-* [Arduino 101 Starter Kit](http://digiwarestore.com/en/) - Arduino 101 Starter Kit's product page
+* [Arduino Starter Kit](http://digiwarestore.com/en/) - Arduino 101 Starter Kit's product page
 * [Arduino 101](https://www.arduino.cc/en/Main/ArduinoBoard101) - Arduino 101 as the main development board
 * [Intel® Curie™](http://www.intel.com/content/www/us/en/wearables/wearable-soc.html) - Main processor on Arduino 101
 
