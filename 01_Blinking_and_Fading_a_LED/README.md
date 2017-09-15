@@ -16,7 +16,7 @@ Almost every start of exploring and developing on any embedded devices starts fr
 If there are no mistakes, the LED Module should start blinking then increase and fade in its brightness.
 
 # [BAHASA INDONESIA] Proyek 1: Blinking and Fading a LED
-Hampir semua awal dari eksplorasi dan pengembangan yang dilakukan pada embedded device dimulai dari mengedipkan LED, di mana hal tersebut digunakan untuk memastikan bahwa board kita dapat bekerja dengan baik, serta bagi kita agar mengetahui bagaimana bentuk kode yang paling sederhana untuk mengakses output pin dari board tersebut. Hal yang sama akan kita lakukan untuk perjalanan eksplorasi DT-AVR UNO R3 kita. Melalui proyek ini, kami berharap Anda akan mendapatkan gambaran bahwa mengendalikan output pin pada DT-AVR UNO R3 adalah hal yang mudah dilakukan.
+Hampir semua awal dari eksplorasi dan pengembangan yang dilakukan pada embedded device dimulai dari mengedipkan LED, di mana hal tersebut digunakan untuk memastikan bahwa board kita dapat bekerja dengan baik, serta bagi kita agar mengetahui bagaimana bentuk kode yang paling sederhana untuk mengakses output pin dari board tersebut. Hal yang sama akan kita lakukan untuk perjalanan eksplorasi DT-AVR UNO R3. Melalui proyek ini, kami berharap Anda akan mendapatkan gambaran bahwa mengendalikan output pin pada DT-AVR UNO R3 adalah hal yang mudah dilakukan.
 
 ### Modul-modul yang dibutuhkan pada proyek ini:
 * DT-AVR UNO R3 (1),
