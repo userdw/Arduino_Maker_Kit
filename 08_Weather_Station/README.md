@@ -33,7 +33,7 @@ Proyek ini ditujukan untuk memberikan contoh sederhana mengenai penggunaan mikro
 * MCP9700 Temperature Sensor (1),
 * OLED Module (1).
 
-Sebelum Anda memulai memprogram Arduino 101, Anda terlebih dahulu perlu untuk menyertakan library u8g2 dari olikraus. Halaman github untuk u8g2 dapat ditemukan pada [link berikut](https://github.com/olikraus/u8g2). Instalasi untuk u8g2 dapat dilakukan melalui Arduino IDE (**Sketch | Include Library | Manage Libraries...**).
+Sebelum Anda memulai memprogram DT-AVR UNO R3, Anda terlebih dahulu perlu untuk menyertakan library u8g2 dari olikraus. Halaman github untuk u8g2 dapat ditemukan pada [link berikut](https://github.com/olikraus/u8g2). Instalasi untuk u8g2 dapat dilakukan melalui Arduino IDE (**Sketch | Include Library | Manage Libraries...**).
 
 <img src="/images/u8g2.png" height="443">
 
