@@ -4,7 +4,7 @@ For more information about each products please visit links below:
 * [Arduino Starter Kit](http://digiwarestore.com/en/) - Arduino Starter Kit's product page
 * [DT-AVR UNO R3](http://innovativeelectronics.com/index.php?pg=ie_pdet&idp=489&ielang=en) - DT-AVR UNO R3 as the main development board
 
-## The titles of the projects which will be included in this repository are:
+## The titles of the projects which included in this repository are:
 * [01. Blinking and Fading a LED](/01_Blinking_and_Fading_a_LED)
 * [02. Click Counter](/02_Click_Counter)
 * [03. Proximity Indicator](/03_Proximity_Indicator)
@@ -25,7 +25,7 @@ Informasi untuk masing-masing produk dapat ditemukan pada link-link di bawah:
 * [Arduino Starter Kit](http://digiwarestore.com/en/) - Halaman produk Arduino Starter Kit
 * [DT-AVR UNO R3](http://innovativeelectronics.com/index.php?pg=ie_pdet&idp=489) - DT-AVR UNO R3 sebagai development board utama
 
-## Judul-judul proyek yang akan disertakan pada repository ini adalah:
+## Judul-judul proyek yang disertakan pada repository ini adalah:
 * [01. Blinking and Fading a LED](/01_Blinking_and_Fading_a_LED)
 * [02. Click Counter](/02_Click_Counter)
 * [03. Proximity Indicator](/03_Proximity_Indicator)
