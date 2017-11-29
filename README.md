@@ -1,7 +1,7 @@
-# [ENGLISH] Arduino Starter Kit
-This repository has been created as the companion for Arduino Starter Kit. Arduino Starter Kit itself is a suitable start point for both hobbyist and academist alike to start exploring the features offered by Arduino board, especially DT-AVR UNO R3 as an Arduino UNO compatible board.
+# [ENGLISH] Arduino Maker Kit
+This repository has been created as the companion for Arduino Maker Kit. Arduino Maker Kit itself is a suitable start point for both hobbyist and academist alike to start exploring the features offered by Arduino board, especially DT-AVR UNO R3 as an Arduino UNO compatible board.
 For more information about each products please visit links below:
-* [Arduino Starter Kit](http://digiwarestore.com/en/) - Arduino Starter Kit's product page
+* [Arduino Maker Kit](http://digiwarestore.com/en/) - Arduino Maker Kit's product page
 * [DT-AVR UNO R3](http://innovativeelectronics.com/index.php?pg=ie_pdet&idp=489&ielang=en) - DT-AVR UNO R3 as the main development board
 
 ## The titles of the projects which included in this repository are:
@@ -19,10 +19,10 @@ Those projects listed above are aimed as introductory to DT-AVR UNO R3's feature
 ## Driver instalation:
 Before you can start programming DT-AVR UNO R3, you have to install the appropriate driver. Please visit this [link](https://www.silabs.com/products/development-tools/software/usb-to-uart-bridge-vcp-drivers) for the latest driver.
 
-# [BAHASA INDONESIA] Arduino 101 Starter Kit
-Repository ini dibuat sebagai pelengkap dari Arduino Starter Kit. Arduino Starter Kit merupakan produk yang sesuai untuk digunakan sebagai titik awal eksplorasi fitur-fitur yang disediakan oleh modul Arduino, khususnya DT-AVR UNO R3 sebagai Arduino UNO compatible board.
+# [BAHASA INDONESIA] Arduino 101 Maker Kit
+Repository ini dibuat sebagai pelengkap dari Arduino Maker Kit. Arduino Maker Kit merupakan produk yang sesuai untuk digunakan sebagai titik awal eksplorasi fitur-fitur yang disediakan oleh modul Arduino, khususnya DT-AVR UNO R3 sebagai Arduino UNO compatible board.
 Informasi untuk masing-masing produk dapat ditemukan pada link-link di bawah:
-* [Arduino Starter Kit](http://digiwarestore.com/en/) - Halaman produk Arduino Starter Kit
+* [Arduino Maker Kit](http://digiwarestore.com/en/) - Halaman produk Arduino Maker Kit
 * [DT-AVR UNO R3](http://innovativeelectronics.com/index.php?pg=ie_pdet&idp=489) - DT-AVR UNO R3 sebagai development board utama
 
 ## Judul-judul proyek yang disertakan pada repository ini adalah:
