@@ -7,9 +7,6 @@ This project is aimed to give you a simple example about how to use microcontrol
 * DT-AVR UNO R3 (1),
 * I/O Expansion Shield (1),
 * MCP9700 Temperature Sensor (1),
-* OLED Module (1).
-
-Before you start to program your DT-AVR UNO R3, you will need u8g2 library from olikraus. You can found the github page for u8g2 library [here](https://github.com/olikraus/u8g2). Instalation for u8g2 can be done through Arduino IDE (**Sketch | Include Library | Manage Libraries...**).
 
 <img src="/images/u8g2.png" height="443">
 
@@ -30,10 +27,7 @@ Proyek ini ditujukan untuk memberikan contoh sederhana mengenai penggunaan mikro
 ### Modul-modul yang dibutuhkan pada proyek ini:
 * DT-AVR UNO R3 (1),
 * I/O Expansion Shield (1),
-* MCP9700 Temperature Sensor (1),
-* OLED Module (1).
-
-Sebelum Anda memulai memprogram DT-AVR UNO R3, Anda terlebih dahulu perlu untuk menyertakan library u8g2 dari olikraus. Halaman github untuk u8g2 dapat ditemukan pada [link berikut](https://github.com/olikraus/u8g2). Instalasi untuk u8g2 dapat dilakukan melalui Arduino IDE (**Sketch | Include Library | Manage Libraries...**).
+* MCP9700 Temperature Sensor (1).
 
 <img src="/images/u8g2.png" height="443">
 
