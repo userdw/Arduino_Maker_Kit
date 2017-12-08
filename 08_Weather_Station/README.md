@@ -8,8 +8,6 @@ This project is aimed to give you a simple example about how to use microcontrol
 * I/O Expansion Shield (1),
 * MCP9700 Temperature Sensor (1),
 
-<img src="/images/u8g2.png" height="443">
-
 ### Assemble the modules following these steps:
 1. **Change the PWR_SEL jumper on I/O Expansion Shield to 3V3**,
 2. Plug the I/O Expansion Shield to the top of DT-AVR UNO R3,
@@ -28,8 +26,6 @@ Proyek ini ditujukan untuk memberikan contoh sederhana mengenai penggunaan mikro
 * DT-AVR UNO R3 (1),
 * I/O Expansion Shield (1),
 * MCP9700 Temperature Sensor (1).
-
-<img src="/images/u8g2.png" height="443">
 
 ### Hubungkan modul-modul di atas mengikuti langkah-langkah di bawah ini:
 1. **Ubah posisi jumper PWR_SEL pada I/O Expansion Shield ke 3V3**,
