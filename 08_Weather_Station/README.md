@@ -1,7 +1,7 @@
 # [ENGLISH] Project 8: Weather Station
 This project is aimed to give you a simple example about how to use microcontroller as the main processor of weather station. In this project we will monitor the ambient temperature of a room. The system in this project will utilize the MCP9700 Temperature Sensor and OLED Module to display the readings.
 
-<img src="/images/Weather_Station.png" height="400">
+<img src="/images/Weather_Station.PNG" height="400">
 
 ### In this project you will need:
 * DT-AVR UNO R3 (1),
@@ -20,7 +20,7 @@ If there are no mistakes, system will start to measure the ambient temperature e
 # [BAHASA INDONESIA] Proyek 8: Weather Station
 Proyek ini ditujukan untuk memberikan contoh sederhana mengenai penggunaan mikrokontroler sebagai sebuah stasiun cuaca. Adapun pada proyek ini hal yang akan dipantau adalah suhu sekitar dari sebuah ruangan. Sistem pada proyek ini akan memanfaatkan MCP9700 Temperature Sensor untuk pendeteksian suhu, serta OLED Module sebagai tampilannya.
 
-<img src="/images/Weather_Station.png" height="400">
+<img src="/images/Weather_Station.PNG" height="400">
 
 ### Modul-modul yang dibutuhkan pada proyek ini:
 * DT-AVR UNO R3 (1),
