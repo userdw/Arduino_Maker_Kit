@@ -35,6 +35,6 @@ Pada proyek ini akan dikenalkan penggunaan potensiometer sebagai perangkat input
 2. Pasang I/O Expansion Shield di atas DT-AVR UNO R3,
 3. Hubungkan Rotation Sensor ke header I/O Expansion Shield yang berlabel **A0**,
 4. Hubungkan Micro Servo ke header I/O Expansion Shield yang berlabel **6**,
-5. Upload kode program [Potentiometer_Controlled_Servo](/05_Potentiometer_Controlled_Servo/Potentiometer_Controlled_Servo) ke DT-AVR UNO R3.
+5. Upload kode program [Potentiometer_Controlled_Servo](/06_Potentiometer_Controlled_Servo/Potentiometer_Controlled_Servo) ke DT-AVR UNO R3.
 
 Apabila tidak terdapat kesalahan, gerakan Micro Servo akan ditentukan dari putaran yang diberikan ke Rotation Sensor.
