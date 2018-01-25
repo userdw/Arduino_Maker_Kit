@@ -14,7 +14,7 @@ If we need to control an output which have more states than on/off, we will have
 2. Plug the I/O Expansion Shield to the top of DT-AVR UNO R3,
 3. Plug the Rotation Sensor to the header on the I/O Expansion Shield labelled **A0**,
 4. Plug the Micro Servo to the header on the I/O Expansion Shield labelled **6**,
-5. Upload the [Potentiometer_Controlled_Servo](/05_Potentiometer_Controlled_Servo/Potentiometer_Controlled_Servo) code into DT-AVR UNO R3.
+5. Upload the [Potentiometer_Controlled_Servo](/06_Potentiometer_Controlled_Servo/Potentiometer_Controlled_Servo) code into DT-AVR UNO R3.
 
 If there are no mistakes, Micro Servo movement will be determined by the rotation of Rotation Sensor.
 
