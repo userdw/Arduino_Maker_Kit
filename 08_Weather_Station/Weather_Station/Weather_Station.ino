@@ -10,7 +10,7 @@ void loop(void) {
   temperature = (milliVoltage - 500) / 10;
   
   Serial.print("  ADC Value = ");
-  Serial.println(analogRead(A0));
+  Serial.println(analogRead(sensor));
 
   Serial.print("  Temperature Value = ");
   Serial.print(temperature);
