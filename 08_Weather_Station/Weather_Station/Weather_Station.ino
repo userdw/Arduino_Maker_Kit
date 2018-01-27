@@ -1,4 +1,4 @@
- #define sensor A0
+#define sensor A0
 float milliVoltage, temperature;
 
 void setup(void) {
